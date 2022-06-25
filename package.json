@@ -27,7 +27,7 @@
     "chai": "^3.5.0",
     "ignore-styles": "^4.0.0",
     "istanbul": "^0.4.4",
-    "jsdom": "^9.4.5",
+    "jsdom": "^16.5.0",
     "mocha": "^3.0.2",
     "mocha-jsdom": "~1.1.0",
     "react-addons-test-utils": "^15.5.1",
